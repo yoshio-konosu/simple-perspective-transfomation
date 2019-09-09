@@ -1,1 +1,1 @@
-# igo-editer
+# igo-editor
