@@ -4,12 +4,12 @@
 # Table of Contents
 1. [操作説明](#操作説明)
 2. [プライバシーポリシー](https://yoshio-konosu.github.io/igo-editor/)
-3. [コンタクト](https://y.konosu.igoeditor@gmail.com/)
+3. [コンタクト](y.konosu.igoeditor@gmail.com)
 
 ## 操作説明
  電子版の碁盤と碁石です。
 
-+ 対　戦
++ 対　戦  
 &nbsp; ルール通りに碁石を置けます。  
   
 + 作り碁  
