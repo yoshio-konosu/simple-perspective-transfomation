@@ -4,7 +4,7 @@
 # Table of Contents
 1. [操作説明](#操作説明)
 2. [プライバシーポリシー](https://yoshio-konosu.github.io/igo-editor/)
-3. [コンタクト](y.konosu.igoeditor@gmail.com)
+3. [コンタクト](mailto:y.konosu.igoeditor@gmail.com)
 
 ## 操作説明
  電子版の碁盤と碁石です。
