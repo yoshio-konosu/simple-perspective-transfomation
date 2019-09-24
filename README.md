@@ -4,7 +4,7 @@
 # Table of Contents
 1. [Example](#example)
 2. [Example2](#example2)
-3. プライバシーポリシー(https://yoshio-konosu.github.io/igo-editor/)
+3. [プライバシーポリシー](https://yoshio-konosu.github.io/igo-editor/)
 
 ## Example
 ## Example2
