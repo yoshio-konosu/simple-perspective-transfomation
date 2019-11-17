@@ -1,0 +1,831 @@
+{
+    "komi" : "6.5",
+    "label1" : "The 10th computer Go UEC Cup",
+    "label2" : "2017-03-18",
+    "label3" : "黒　　DeepZenGo",
+    "label4" : "白　　Fine Art",
+    "label5" : "",
+    "label6" : "【White wins by program's resignation.】164手完",
+  "kifus" : [
+    {
+      "kifuJ" : "1",
+      "columnJ" : "4",
+      "rowJ" : "16"
+    },
+    {
+      "kifuJ" : "2",
+      "columnJ" : "16",
+      "rowJ" : "4"
+    },
+    {
+      "kifuJ" : "3",
+      "columnJ" : "16",
+      "rowJ" : "17"
+    },
+    {
+      "kifuJ" : "4",
+      "columnJ" : "3",
+      "rowJ" : "4"
+    },
+    {
+      "kifuJ" : "5",
+      "columnJ" : "17",
+      "rowJ" : "6"
+    },
+    {
+      "kifuJ" : "6",
+      "columnJ" : "14",
+      "rowJ" : "3"
+    },
+    {
+      "kifuJ" : "7",
+      "columnJ" : "17",
+      "rowJ" : "12"
+    },
+    {
+      "kifuJ" : "8",
+      "columnJ" : "10",
+      "rowJ" : "17"
+    },
+    {
+      "kifuJ" : "9",
+      "columnJ" : "6",
+      "rowJ" : "17"
+    },
+    {
+      "kifuJ" : "10",
+      "columnJ" : "13",
+      "rowJ" : "17"
+    },
+    {
+      "kifuJ" : "11",
+      "columnJ" : "14",
+      "rowJ" : "16"
+    },
+    {
+      "kifuJ" : "12",
+      "columnJ" : "14",
+      "rowJ" : "17"
+    },
+    {
+      "kifuJ" : "13",
+      "columnJ" : "15",
+      "rowJ" : "17"
+    },
+    {
+      "kifuJ" : "14",
+      "columnJ" : "13",
+      "rowJ" : "16"
+    },
+    {
+      "kifuJ" : "15",
+      "columnJ" : "16",
+      "rowJ" : "12"
+    },
+    {
+      "kifuJ" : "16",
+      "columnJ" : "15",
+      "rowJ" : "13"
+    },
+    {
+      "kifuJ" : "17",
+      "columnJ" : "13",
+      "rowJ" : "15"
+    },
+    {
+      "kifuJ" : "18",
+      "columnJ" : "17",
+      "rowJ" : "13"
+    },
+    {
+      "kifuJ" : "19",
+      "columnJ" : "16",
+      "rowJ" : "10"
+    },
+    {
+      "kifuJ" : "20",
+      "columnJ" : "18",
+      "rowJ" : "17"
+    },
+    {
+      "kifuJ" : "21",
+      "columnJ" : "18",
+      "rowJ" : "18"
+    },
+    {
+      "kifuJ" : "22",
+      "columnJ" : "18",
+      "rowJ" : "16"
+    },
+    {
+      "kifuJ" : "23",
+      "columnJ" : "16",
+      "rowJ" : "15"
+    },
+    {
+      "kifuJ" : "24",
+      "columnJ" : "18",
+      "rowJ" : "12"
+    },
+    {
+      "kifuJ" : "25",
+      "columnJ" : "18",
+      "rowJ" : "11"
+    },
+    {
+      "kifuJ" : "26",
+      "columnJ" : "18",
+      "rowJ" : "13"
+    },
+    {
+      "kifuJ" : "27",
+      "columnJ" : "12",
+      "rowJ" : "16"
+    },
+    {
+      "kifuJ" : "28",
+      "columnJ" : "12",
+      "rowJ" : "17"
+    },
+    {
+      "kifuJ" : "29",
+      "columnJ" : "13",
+      "rowJ" : "11"
+    },
+    {
+      "kifuJ" : "30",
+      "columnJ" : "15",
+      "rowJ" : "12"
+    },
+    {
+      "kifuJ" : "31",
+      "columnJ" : "5",
+      "rowJ" : "3"
+    },
+    {
+      "kifuJ" : "32",
+      "columnJ" : "15",
+      "rowJ" : "10"
+    },
+    {
+      "kifuJ" : "33",
+      "columnJ" : "16",
+      "rowJ" : "9"
+    },
+    {
+      "kifuJ" : "34",
+      "columnJ" : "15",
+      "rowJ" : "9"
+    },
+    {
+      "kifuJ" : "35",
+      "columnJ" : "3",
+      "rowJ" : "7"
+    },
+    {
+      "kifuJ" : "36",
+      "columnJ" : "4",
+      "rowJ" : "5"
+    },
+    {
+      "kifuJ" : "37",
+      "columnJ" : "3",
+      "rowJ" : "10"
+    },
+    {
+      "kifuJ" : "38",
+      "columnJ" : "8",
+      "rowJ" : "3"
+    },
+    {
+      "kifuJ" : "39",
+      "columnJ" : "9",
+      "rowJ" : "14"
+    },
+    {
+      "kifuJ" : "40",
+      "columnJ" : "11",
+      "rowJ" : "17"
+    },
+    {
+      "kifuJ" : "41",
+      "columnJ" : "12",
+      "rowJ" : "13"
+    },
+    {
+      "kifuJ" : "42",
+      "columnJ" : "6",
+      "rowJ" : "4"
+    },
+    {
+      "kifuJ" : "43",
+      "columnJ" : "14",
+      "rowJ" : "18"
+    },
+    {
+      "kifuJ" : "44",
+      "columnJ" : "13",
+      "rowJ" : "18"
+    },
+    {
+      "kifuJ" : "45",
+      "columnJ" : "15",
+      "rowJ" : "8"
+    },
+    {
+      "kifuJ" : "46",
+      "columnJ" : "13",
+      "rowJ" : "10"
+    },
+    {
+      "kifuJ" : "47",
+      "columnJ" : "13",
+      "rowJ" : "12"
+    },
+    {
+      "kifuJ" : "48",
+      "columnJ" : "16",
+      "rowJ" : "7"
+    },
+    {
+      "kifuJ" : "49",
+      "columnJ" : "16",
+      "rowJ" : "8"
+    },
+    {
+      "kifuJ" : "50",
+      "columnJ" : "17",
+      "rowJ" : "7"
+    },
+    {
+      "kifuJ" : "51",
+      "columnJ" : "13",
+      "rowJ" : "8"
+    },
+    {
+      "kifuJ" : "52",
+      "columnJ" : "13",
+      "rowJ" : "9"
+    },
+    {
+      "kifuJ" : "53",
+      "columnJ" : "12",
+      "rowJ" : "8"
+    },
+    {
+      "kifuJ" : "54",
+      "columnJ" : "11",
+      "rowJ" : "10"
+    },
+    {
+      "kifuJ" : "55",
+      "columnJ" : "11",
+      "rowJ" : "9"
+    },
+    {
+      "kifuJ" : "56",
+      "columnJ" : "12",
+      "rowJ" : "11"
+    },
+    {
+      "kifuJ" : "57",
+      "columnJ" : "12",
+      "rowJ" : "12"
+    },
+    {
+      "kifuJ" : "58",
+      "columnJ" : "10",
+      "rowJ" : "10"
+    },
+    {
+      "kifuJ" : "59",
+      "columnJ" : "18",
+      "rowJ" : "7"
+    },
+    {
+      "kifuJ" : "60",
+      "columnJ" : "16",
+      "rowJ" : "6"
+    },
+    {
+      "kifuJ" : "61",
+      "columnJ" : "17",
+      "rowJ" : "5"
+    },
+    {
+      "kifuJ" : "62",
+      "columnJ" : "18",
+      "rowJ" : "8"
+    },
+    {
+      "kifuJ" : "63",
+      "columnJ" : "16",
+      "rowJ" : "5"
+    },
+    {
+      "kifuJ" : "64",
+      "columnJ" : "15",
+      "rowJ" : "5"
+    },
+    {
+      "kifuJ" : "65",
+      "columnJ" : "15",
+      "rowJ" : "6"
+    },
+    {
+      "kifuJ" : "66",
+      "columnJ" : "15",
+      "rowJ" : "7"
+    },
+    {
+      "kifuJ" : "67",
+      "columnJ" : "14",
+      "rowJ" : "7"
+    },
+    {
+      "kifuJ" : "68",
+      "columnJ" : "17",
+      "rowJ" : "8"
+    },
+    {
+      "kifuJ" : "69",
+      "columnJ" : "14",
+      "rowJ" : "6"
+    },
+    {
+      "kifuJ" : "70",
+      "columnJ" : "17",
+      "rowJ" : "4"
+    },
+    {
+      "kifuJ" : "71",
+      "columnJ" : "18",
+      "rowJ" : "4"
+    },
+    {
+      "kifuJ" : "72",
+      "columnJ" : "18",
+      "rowJ" : "3"
+    },
+    {
+      "kifuJ" : "73",
+      "columnJ" : "8",
+      "rowJ" : "10"
+    },
+    {
+      "kifuJ" : "74",
+      "columnJ" : "10",
+      "rowJ" : "9"
+    },
+    {
+      "kifuJ" : "75",
+      "columnJ" : "8",
+      "rowJ" : "8"
+    },
+    {
+      "kifuJ" : "76",
+      "columnJ" : "10",
+      "rowJ" : "7"
+    },
+    {
+      "kifuJ" : "77",
+      "columnJ" : "12",
+      "rowJ" : "9"
+    },
+    {
+      "kifuJ" : "78",
+      "columnJ" : "12",
+      "rowJ" : "10"
+    },
+    {
+      "kifuJ" : "79",
+      "columnJ" : "15",
+      "rowJ" : "11"
+    },
+    {
+      "kifuJ" : "80",
+      "columnJ" : "14",
+      "rowJ" : "11"
+    },
+    {
+      "kifuJ" : "81",
+      "columnJ" : "16",
+      "rowJ" : "11"
+    },
+    {
+      "kifuJ" : "82",
+      "columnJ" : "14",
+      "rowJ" : "12"
+    },
+    {
+      "kifuJ" : "83",
+      "columnJ" : "18",
+      "rowJ" : "5"
+    },
+    {
+      "kifuJ" : "84",
+      "columnJ" : "19",
+      "rowJ" : "4"
+    },
+    {
+      "kifuJ" : "85",
+      "columnJ" : "10",
+      "rowJ" : "6"
+    },
+    {
+      "kifuJ" : "86",
+      "columnJ" : "9",
+      "rowJ" : "7"
+    },
+    {
+      "kifuJ" : "87",
+      "columnJ" : "10",
+      "rowJ" : "4"
+    },
+    {
+      "kifuJ" : "88",
+      "columnJ" : "19",
+      "rowJ" : "5"
+    },
+    {
+      "kifuJ" : "89",
+      "columnJ" : "13",
+      "rowJ" : "3"
+    },
+    {
+      "kifuJ" : "90",
+      "columnJ" : "11",
+      "rowJ" : "6"
+    },
+    {
+      "kifuJ" : "91",
+      "columnJ" : "14",
+      "rowJ" : "5"
+    },
+    {
+      "kifuJ" : "92",
+      "columnJ" : "15",
+      "rowJ" : "4"
+    },
+    {
+      "kifuJ" : "93",
+      "columnJ" : "12",
+      "rowJ" : "5"
+    },
+    {
+      "kifuJ" : "94",
+      "columnJ" : "10",
+      "rowJ" : "5"
+    },
+    {
+      "kifuJ" : "95",
+      "columnJ" : "5",
+      "rowJ" : "7"
+    },
+    {
+      "kifuJ" : "96",
+      "columnJ" : "9",
+      "rowJ" : "4"
+    },
+    {
+      "kifuJ" : "97",
+      "columnJ" : "10",
+      "rowJ" : "3"
+    },
+    {
+      "kifuJ" : "98",
+      "columnJ" : "13",
+      "rowJ" : "2"
+    },
+    {
+      "kifuJ" : "99",
+      "columnJ" : "12",
+      "rowJ" : "3"
+    },
+    {
+      "kifuJ" : "100",
+      "columnJ" : "7",
+      "rowJ" : "16"
+    },
+    {
+      "kifuJ" : "101",
+      "columnJ" : "6",
+      "rowJ" : "16"
+    },
+    {
+      "kifuJ" : "102",
+      "columnJ" : "7",
+      "rowJ" : "15"
+    },
+    {
+      "kifuJ" : "103",
+      "columnJ" : "8",
+      "rowJ" : "18"
+    },
+    {
+      "kifuJ" : "104",
+      "columnJ" : "9",
+      "rowJ" : "16"
+    },
+    {
+      "kifuJ" : "105",
+      "columnJ" : "6",
+      "rowJ" : "14"
+    },
+    {
+      "kifuJ" : "106",
+      "columnJ" : "8",
+      "rowJ" : "13"
+    },
+    {
+      "kifuJ" : "107",
+      "columnJ" : "7",
+      "rowJ" : "12"
+    },
+    {
+      "kifuJ" : "108",
+      "columnJ" : "7",
+      "rowJ" : "13"
+    },
+    {
+      "kifuJ" : "109",
+      "columnJ" : "6",
+      "rowJ" : "13"
+    },
+    {
+      "kifuJ" : "110",
+      "columnJ" : "8",
+      "rowJ" : "12"
+    },
+    {
+      "kifuJ" : "111",
+      "columnJ" : "7",
+      "rowJ" : "11"
+    },
+    {
+      "kifuJ" : "112",
+      "columnJ" : "2",
+      "rowJ" : "5"
+    },
+    {
+      "kifuJ" : "113",
+      "columnJ" : "2",
+      "rowJ" : "6"
+    },
+    {
+      "kifuJ" : "114",
+      "columnJ" : "3",
+      "rowJ" : "17"
+    },
+    {
+      "kifuJ" : "115",
+      "columnJ" : "2",
+      "rowJ" : "15"
+    },
+    {
+      "kifuJ" : "116",
+      "columnJ" : "7",
+      "rowJ" : "17"
+    },
+    {
+      "kifuJ" : "117",
+      "columnJ" : "7",
+      "rowJ" : "18"
+    },
+    {
+      "kifuJ" : "118",
+      "columnJ" : "5",
+      "rowJ" : "18"
+    },
+    {
+      "kifuJ" : "119",
+      "columnJ" : "6",
+      "rowJ" : "18"
+    },
+    {
+      "kifuJ" : "120",
+      "columnJ" : "4",
+      "rowJ" : "17"
+    },
+    {
+      "kifuJ" : "121",
+      "columnJ" : "5",
+      "rowJ" : "17"
+    },
+    {
+      "kifuJ" : "122",
+      "columnJ" : "5",
+      "rowJ" : "19"
+    },
+    {
+      "kifuJ" : "123",
+      "columnJ" : "1",
+      "rowJ" : "18"
+    },
+    {
+      "kifuJ" : "124",
+      "columnJ" : "3",
+      "rowJ" : "15"
+    },
+    {
+      "kifuJ" : "125",
+      "columnJ" : "2",
+      "rowJ" : "14"
+    },
+    {
+      "kifuJ" : "126",
+      "columnJ" : "3",
+      "rowJ" : "14"
+    },
+    {
+      "kifuJ" : "127",
+      "columnJ" : "2",
+      "rowJ" : "13"
+    },
+    {
+      "kifuJ" : "128",
+      "columnJ" : "3",
+      "rowJ" : "13"
+    },
+    {
+      "kifuJ" : "129",
+      "columnJ" : "3",
+      "rowJ" : "12"
+    },
+    {
+      "kifuJ" : "130",
+      "columnJ" : "2",
+      "rowJ" : "12"
+    },
+    {
+      "kifuJ" : "131",
+      "columnJ" : "2",
+      "rowJ" : "11"
+    },
+    {
+      "kifuJ" : "132",
+      "columnJ" : "4",
+      "rowJ" : "12"
+    },
+    {
+      "kifuJ" : "133",
+      "columnJ" : "3",
+      "rowJ" : "11"
+    },
+    {
+      "kifuJ" : "134",
+      "columnJ" : "3",
+      "rowJ" : "16"
+    },
+    {
+      "kifuJ" : "135",
+      "columnJ" : "4",
+      "rowJ" : "14"
+    },
+    {
+      "kifuJ" : "136",
+      "columnJ" : "4",
+      "rowJ" : "13"
+    },
+    {
+      "kifuJ" : "137",
+      "columnJ" : "4",
+      "rowJ" : "15"
+    },
+    {
+      "kifuJ" : "138",
+      "columnJ" : "6",
+      "rowJ" : "15"
+    },
+    {
+      "kifuJ" : "139",
+      "columnJ" : "5",
+      "rowJ" : "14"
+    },
+    {
+      "kifuJ" : "140",
+      "columnJ" : "1",
+      "rowJ" : "17"
+    },
+    {
+      "kifuJ" : "141",
+      "columnJ" : "2",
+      "rowJ" : "17"
+    },
+    {
+      "kifuJ" : "142",
+      "columnJ" : "2",
+      "rowJ" : "18"
+    },
+    {
+      "kifuJ" : "143",
+      "columnJ" : "1",
+      "rowJ" : "16"
+    },
+    {
+      "kifuJ" : "144",
+      "columnJ" : "3",
+      "rowJ" : "19"
+    },
+    {
+      "kifuJ" : "145",
+      "columnJ" : "5",
+      "rowJ" : "4"
+    },
+    {
+      "kifuJ" : "146",
+      "columnJ" : "5",
+      "rowJ" : "5"
+    },
+    {
+      "kifuJ" : "147",
+      "columnJ" : "6",
+      "rowJ" : "5"
+    },
+    {
+      "kifuJ" : "148",
+      "columnJ" : "2",
+      "rowJ" : "16"
+    },
+    {
+      "kifuJ" : "149",
+      "columnJ" : "7",
+      "rowJ" : "5"
+    },
+    {
+      "kifuJ" : "150",
+      "columnJ" : "4",
+      "rowJ" : "2"
+    },
+    {
+      "kifuJ" : "151",
+      "columnJ" : "5",
+      "rowJ" : "2"
+    },
+    {
+      "kifuJ" : "152",
+      "columnJ" : "7",
+      "rowJ" : "4"
+    },
+    {
+      "kifuJ" : "153",
+      "columnJ" : "7",
+      "rowJ" : "2"
+    },
+    {
+      "kifuJ" : "154",
+      "columnJ" : "8",
+      "rowJ" : "2"
+    },
+    {
+      "kifuJ" : "155",
+      "columnJ" : "8",
+      "rowJ" : "5"
+    },
+    {
+      "kifuJ" : "156",
+      "columnJ" : "9",
+      "rowJ" : "5"
+    },
+    {
+      "kifuJ" : "157",
+      "columnJ" : "3",
+      "rowJ" : "2"
+    },
+    {
+      "kifuJ" : "158",
+      "columnJ" : "4",
+      "rowJ" : "3"
+    },
+    {
+      "kifuJ" : "159",
+      "columnJ" : "4",
+      "rowJ" : "1"
+    },
+    {
+      "kifuJ" : "160",
+      "columnJ" : "2",
+      "rowJ" : "3"
+    },
+    {
+      "kifuJ" : "161",
+      "columnJ" : "2",
+      "rowJ" : "2"
+    },
+    {
+      "kifuJ" : "162",
+      "columnJ" : "4",
+      "rowJ" : "4"
+    },
+    {
+      "kifuJ" : "163",
+      "columnJ" : "1",
+      "rowJ" : "2"
+    },
+    {
+      "kifuJ" : "164",
+      "columnJ" : "6",
+      "rowJ" : "3"
+    }
+  ]
+}
