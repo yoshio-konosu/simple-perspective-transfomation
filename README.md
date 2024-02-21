@@ -7,7 +7,7 @@
 3. [コンタクト](mailto:y.konosu.igoeditor@gmail.com)
 
 ## 操作説明
- 電子版の碁盤と碁石です。（iPad専用）
+ 電子版の碁盤と碁石です。（iPad 12.9_inch 専用）
   
 + 対　戦  
 &nbsp; ルール通りに碁石を置けます。  
