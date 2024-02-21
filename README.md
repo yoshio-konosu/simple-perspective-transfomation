@@ -1,8 +1,7 @@
 # iGO-editor
 ![teisyutu2-2r](https://user-images.githubusercontent.com/55012754/65386520-b93adc80-dd77-11e9-9d2e-220e9f3eb84f.gif)
 
-![teisyutu2-2r](https://github.com/yoshio-konosu/igo-editor/assets/55012754/9d816f21-4214-4d27-8875-12b0376ceaaf
-)
+![teisyutu2-2r](https://github.com/yoshio-konosu/igo-editor/assets/55012754/9d816f21-4214-4d27-8875-12b0376ceaaf)
 
 # Table of Contents
 1. [操作説明](#操作説明)
