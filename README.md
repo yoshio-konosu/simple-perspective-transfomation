@@ -1,4 +1,5 @@
 # シンプル台形補正
+
 ![teisyutu2-2r](https://user-images.githubusercontent.com/55012754/65386520-b93adc80-dd77-11e9-9d2e-220e9f3eb84f.gif)
 
 ![プレビュー1-12](https://github.com/yoshio-konosu/igo-editor/assets/55012754/ffb060e8-3638-445f-ac6f-e9eef295dfce)
