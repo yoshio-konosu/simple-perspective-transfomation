@@ -7,7 +7,9 @@
 2. [プライバシーポリシー](https://yoshio-konosu.github.io/igo-editor/)
 3. [コンタクト](mailto:y.konosu.igoeditor@gmail.com)
 
+
 ## 【やり方】
+
 + １
 &nbsp; 写真を１枚選択します。（ボタン：Select Image）
 
