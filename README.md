@@ -1,17 +1,12 @@
 # シンプル台形補正
 
-![teisyutu2-2r](https://user-images.githubusercontent.com/55012754/65386520-b93adc80-dd77-11e9-9d2e-220e9f3eb84f.gif)
-
-![プレビュー1-12](https://github.com/yoshio-konosu/igo-editor/assets/55012754/ffb060e8-3638-445f-ac6f-e9eef295dfce)
-![プレビュー2-12](https://github.com/yoshio-konosu/igo-editor/assets/55012754/a2602b65-6dd4-4a8c-9fad-1916229984a4)
-![プレビュー2-22](https://github.com/yoshio-konosu/igo-editor/assets/55012754/a539988e-5e0e-4ad6-b7f3-b65a1b17d9b2)
 
 # Table of Contents
-1. [操作説明](#操作説明)
+1. [【やり方】](#【やり方】)
 2. [プライバシーポリシー](https://yoshio-konosu.github.io/igo-editor/)
 3. [コンタクト](mailto:y.konosu.igoeditor@gmail.com)
 
-## 操作説明
+## 【やり方】
  電子版の碁盤と碁石です。（iPad 12.9_inch 専用）
   
 + 対　戦  
